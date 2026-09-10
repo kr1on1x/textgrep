@@ -1,0 +1,8 @@
+[package]
+name = "textgrep"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "textgrep"
+path = "src/main.rs"
