@@ -1,11 +1,8 @@
 __pycache__/
 *.pyc
 .venv/
-
 target/
-
 build/
 *.o
 *.out
-
 .vscode/
